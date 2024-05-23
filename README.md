@@ -7,3 +7,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 # nextjs-dashboard
+
+
+# related vercel project
+[vercel nextjs-dashboard](https://vercel.com/ritas-projects-897fafbc/nextjs-dashboard)
